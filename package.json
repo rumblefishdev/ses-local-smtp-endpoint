@@ -1,6 +1,6 @@
 {
   "name": "ses-local-smtp-endpoint",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Local service listening on SMTP interface and using aws-sdk to send emails",
   "main": "index.js",
   "bin": "index.js",
